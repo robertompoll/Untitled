@@ -1,4 +1,4 @@
-# Linear regression using python
+# Regressão Linear
 
 ## Sobre os exercícios
 O exercício proposto supõe que somos um residente da cidade Ficção e queremos vender nossa casa, mas não sabemos exatamente o preço a ser escolhido. Somos apresentados uma tabela com a área, número de quartos e o preço de uma gama de casas na cidade. Iremos treinar o algoritmo para identificar a correlação entre essas informações.
