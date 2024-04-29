@@ -1,18 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 20 14:40:10 2018
 
-A = WARMUPEXERCISE() is an example function that returns the 5x5 identity matrix
-
-@author: gabi (based on ML Coursera Course)
+A = WARMUPEXERCISE() é uma função para definir a matriz de identidade
 """
 
 import numpy as np # Library dedictated to vectorial math
 
 
-# Defining a function using Python
-
 def idenMatrix():
     return np.eye(5)
-
